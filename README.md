@@ -102,5 +102,9 @@ Desde n = 35, la diferencia en tiempo frente al método iterativo se torna signi
 ## 5. Crear cuenta en [stackoverflow](https://stackoverflow.com/) y adjuntar imagen en el repo
   <img width="1894" height="889" alt="image" src="https://github.com/user-attachments/assets/c8895f16-9616-4e4b-ae0a-822c4b7b19b8" />
 
+## 6. Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalón. Dejar enlace en el repositorio.
+
+### www.linkedin.com/in/nvalleva  
+
 
 
